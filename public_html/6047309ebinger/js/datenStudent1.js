@@ -35,9 +35,9 @@ const zentraleDatenStudent1 = [{
 const menueStrukturStudent1 = [
     new MenuPunkt('Startseite', '../index.html'),
     new MenuPunkt('unsere Anwendungen', '', [
-        new MenuPunkt('Anwendung Student 1', '../student1/index.html'),
-        new MenuPunkt('Anwendung Student 2', '../student2/index.html'),
-		new MenuPunkt('Anwendung Student 3', '../student3/index.html')
+        new MenuPunkt('Hilfeseite', '../6047309ebinger/index.html'),
+        new MenuPunkt('Punkte', '../6047715giltmann/index.html'),
+		new MenuPunkt('Fragen', '../6048432herbst/index.html')
     ]),
 ];
 
